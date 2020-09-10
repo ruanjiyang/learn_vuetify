@@ -17,4 +17,12 @@
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente praesentium rem, libero dolores corrupti qui neque, quia modi recusandae odio expedita at, perferendis numquam ex ea commodi totam magni! Illo.</p>
         </v-container>
         
-5） 
+5） 前端路由的跳转方法：
+
+      methods:{
+        jump:function (URL){
+            this.$router.push(URL)
+        }
+      }
+ 
+ 6）
