@@ -7,3 +7,5 @@
   具体参数： https://vuetifyjs.com/en/styles/spacing/#spacing
   
 2） 智能的占用空间 用 <spacer> </spacer>
+
+3） 位置和文字都居中的按钮：  <v-card width="100px" class="mx-auto orange--text text-center" >DashBoard</v-card>  
