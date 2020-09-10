@@ -28,4 +28,7 @@
  6） 分割线：
  <v-divider></v-divider>
  
- 7）
+ 7） 按钮透明化，变成文字形式：
+ <v-btn text>aaaaa</v-btn>
+ 
+ 8）
