@@ -1,0 +1,7 @@
+
+1) 空间定位， 使用 mx-4， my-2 这类。举例： 
+  <div class="mx-5 my-3">
+            <router-view ></router-view>
+  </div>
+  
+2） 智能的占用空间 用 <spacer> </spacer>
