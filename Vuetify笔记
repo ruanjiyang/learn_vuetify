@@ -4,4 +4,6 @@
             <router-view ></router-view>
   </div>
   
+  具体参数： https://vuetifyjs.com/en/styles/spacing/#spacing
+  
 2） 智能的占用空间 用 <spacer> </spacer>
