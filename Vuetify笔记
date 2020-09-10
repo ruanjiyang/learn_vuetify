@@ -9,3 +9,12 @@
 2） 智能的占用空间 用 <spacer> </spacer>
 
 3） 位置和文字都居中的按钮：  <v-card width="100px" class="mx-auto orange--text text-center" >DashBoard</v-card>  
+
+4)  放在container中的文字：
+
+        <v-container class='mt-5'>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus modi placeat totam voluptas, animi nemo esse alias illo cum blanditiis aliquam qui recusandae consequuntur odio dolor nam aspernatur, maiores in.</p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente praesentium rem, libero dolores corrupti qui neque, quia modi recusandae odio expedita at, perferendis numquam ex ea commodi totam magni! Illo.</p>
+        </v-container>
+        
+5） 
