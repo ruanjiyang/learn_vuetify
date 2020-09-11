@@ -49,5 +49,6 @@
   
   10)Expansion panels ： 可以理解为可以打开和关闭的 Card。
   
-  11) v-dialog 弹出窗口
-   
+  11) 弹出窗口（dialog)   v-dialog 
+  
+  12） 文本输入区   v-text-field 
