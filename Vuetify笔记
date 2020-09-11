@@ -32,3 +32,19 @@
  <v-btn text>aaaaa</v-btn>
  
  8）图标合集在这里查！！  https://material.io/resources/icons/?style=baseline
+
+ 9) tooltip： 比如鼠标停在按钮上，会显示提示信息
+
+    <v-tooltip bottom>
+      <template v-slot:activator="{ on, attrs }">
+        <v-btn
+          color="primary"
+          dark
+          v-bind="attrs"
+          v-on="on"
+        >Button</v-btn>
+      </template>
+      <span>Tooltip</span>
+    </v-tooltip>
+    
+   
