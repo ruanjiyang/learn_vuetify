@@ -51,4 +51,6 @@
   
   11) 弹出窗口（dialog)   v-dialog 
   
-  12） 文本输入区   v-text-field 
+  12） 文本输入行   v-text-field
+  
+  13） 文本输入区（可以分段的） v-textarea 
